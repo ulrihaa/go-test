@@ -1,5 +1,5 @@
 // описание пакета
-package github.com/ulrihaa/go-test
+package additor
 
 // описание функции
 func Add(s1, s2 int) int {
